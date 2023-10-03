@@ -13,7 +13,7 @@
 
 ...
 
-## :computer: Aplicação Web:
+## :computer: Modelo Preditivo:
 
 - Grupo 1 - ...:
   - Link do repositório: https://github.com/2023M3T9-inteli/grupo1

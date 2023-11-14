@@ -8,11 +8,6 @@ Melhorar o processo de provisão de compras e controle de estoque dos SKUs.
 
 Um modelo capaz de analisar o comportamento do cliente e gerar uma sugestão de compra para cada tipo de produto.
 
-
-## :jigsaw: O público-alvo:
-
-...
-
 ## :computer: Modelo Preditivo:
 
 - Grupo 1 - Mobil.ai:

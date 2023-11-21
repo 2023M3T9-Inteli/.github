@@ -11,16 +11,16 @@ Um modelo capaz de analisar o comportamento do cliente e gerar uma sugestão de 
 ## :computer: Modelo Preditivo:
 
 - Grupo 1 - Mobil.ai:
-  - Link do repositório: https://github.com/2023M3T9-inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M3T9-Inteli-grupo1
 
 - Grupo 2 - DeepMind:
-  - Link do repositório: https://github.com/2023M3T9-inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M3T9-Inteli-grupo2
   
 - Grupo 3 - Horizon:
-  - Link do repositório: https://github.com/2023M3T9-inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M3T9-Inteli-grupo3
   
 - Grupo 4 - Nymbus Tech: 
-  - Link do repositório: https://github.com/2023M3T9-inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M3T9-Inteli-grupo4
   
 - Grupo 5 - Apolo:
-  - Link do repositório: https://github.com/2023M3T9-inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M3T9-Inteli-grupo5
